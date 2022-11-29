@@ -1,3 +1,3 @@
-#!/usr/bin/bash/python3
-def magic_calculations(a, b):
-    return (a ** b) + 98
+#!/usr/bin/python3
+def magic_calculation(a, b):
+    return (98 + a ** b)
